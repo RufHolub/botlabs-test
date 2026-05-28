@@ -1,2 +1,4 @@
 # botlabs-test
-Test assignment for Botlabs
+Тестове завдання для Botlabs
+
+###Бізнес-логіка
